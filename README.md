@@ -8,7 +8,7 @@ http://youtube....
 
 Conference submitted paper / paper submission / login Link:
 ---------------------------------------------------------------------------
-https://easy....
+https://cmt3.research.microsoft.com/ICCIT2022/Submission/Index
 
 
 Paper title:
@@ -23,22 +23,22 @@ http://slides.google.com/
 
 Paper submission date (to workshop/conference):
 ---------------------------------------------------------------------------
-25 October 1999
+01 September 2022
 
 
 Paper submission ID: (received) from conference/workshop
 ---------------------------------------------------------------------------
-1341234
+3
 
 
 Conference Name:
 ---------------------------------------------------------------------------
-2005 International Conference on Quantum Pattern Recognition for Natural Langauge Processing: Techniques and Practices
+2022 INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION TECHNOLOGY
 
 
 Conference URL:
 ---------------------------------------------------------------------------
-http://confsite/...
+https://iccit.org.bd/2022/call-for-paper/
 
 
 Group Number:
