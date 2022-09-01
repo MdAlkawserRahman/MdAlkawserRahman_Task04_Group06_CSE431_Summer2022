@@ -41,9 +41,8 @@ Conference URL:
 https://iccit.org.bd/2022/call-for-paper/
 
 
-Group Number:
+Group Number: 06
 ---------------------------------------------------------------------------
-06
 
 
 ID: 18101213 Name : Jahidul Hasan \
