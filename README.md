@@ -18,7 +18,7 @@ A Survey on Text Summarization Using Graph Neural Network.
 
 Paper presentation (anyone can view without login):
 ---------------------------------------------------------------------------
-http://slides.google.com/
+https://docs.google.com/presentation/d/1oXm0vfp75h7tD-nxxE-leImJenlMTxxT/edit?usp=sharing&ouid=103328125563790171734&rtpof=true&sd=true
 
 
 Paper submission date (to workshop/conference):
